@@ -40,6 +40,7 @@
 * **GameManager 類別**：負責 **邏輯層 (Control Layer)**。控制回合切換、處理玩家輸入、執行勝負判定演算法。
 
 ### 2. UML 類別圖概念
+<img width="234" height="491" alt="image" src="https://github.com/user-attachments/assets/595ca59e-e381-494c-bdb8-0b1bb260fb50" />
 
 * **Board**
   - `- grid[15][15]: char` (封裝成員變數)
